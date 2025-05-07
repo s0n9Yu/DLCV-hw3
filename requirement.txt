@@ -1,0 +1,7 @@
+numpy
+pandas
+wandb
+flake8
+pycocotools
+scikit-image
+opencv-python-headless

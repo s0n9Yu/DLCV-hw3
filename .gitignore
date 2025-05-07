@@ -1,0 +1,7 @@
+*.pth
+checkpoint/*
+data/*
+*.tar.gz
+*.zip
+*.json
+*.pyc
